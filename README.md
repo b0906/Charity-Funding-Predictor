@@ -54,7 +54,6 @@ CSV containing more than 34,000 organizations that have received funding from Al
 * Create an output layer with an appropriate activation function.
 * Check the structure of the model.
 * Compile and train the model.
-* Create a callback that saves the model's weights every five epochs.
 * Evaluate the model using the test data to determine the loss and accuracy.
 * Save and export my results to an HDF5 file. Name the file AlphabetSoupCharity.h5.
 
@@ -101,4 +100,4 @@ CSV containing more than 34,000 organizations that have received funding from Al
 
 
 
-### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain my recommendation.
+### Summary
